@@ -5,7 +5,6 @@ colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 def display_rainbow(colors)
   
 
-
 puts "R, O, Y, G, B, I, V"
 
 display_rainbow(colors)
